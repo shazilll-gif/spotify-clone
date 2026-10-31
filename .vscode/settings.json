@@ -1,0 +1,7 @@
+{
+  "workbench.editorAssociations": {
+    "*.html": "default",
+    "*.css": "default",
+    "*.js": "default"
+  }
+}
